@@ -1,0 +1,7 @@
+export const FETCH_CITY='Beijing'
+export const SELECTED_IMAGE='select'
+export const FILTER_IMAGE='filter'
+export const ACCESS_KEY = '8l8hTiknW_YmHUkFjetAm1TDGJ1f82d_meBDwuOirIM'
+export const FETCH_CITY_REAL='fetchCity'
+export const INPUT_CITY='inputCity'
+export const LOADING='loading'

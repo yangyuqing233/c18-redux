@@ -1,0 +1,23 @@
+.imgLibrary{
+    width: 90%;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    width: 100px;
+    height: 100px;
+    border: 1px #282c34 solid;
+    border-radius: 50%;
+}
+.image:hover{
+    z-index: 2;
+    outline:5px red solid;
+}
+.bgImg{
+    position:absolute;
+    z-index: -999;
+    width: 100vw;
+    height: 100vh;
+}
